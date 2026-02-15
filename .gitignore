@@ -1,0 +1,18 @@
+# Database credentials (contains passwords)
+config.php
+
+# User-uploaded files (photos, PPTs — private data)
+uploads/
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Backup and temp files
+*.sql.bak
+*.zip
+*.tar.gz
